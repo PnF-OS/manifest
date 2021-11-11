@@ -13,7 +13,7 @@ repo init -u https://github.com/PnF-OS/manifest -b v1.0
 ```
 or alternatively you can use the --depth argument as shown below to shallow clone the repo to save up some space
 ```bash
-repo init --depth=1 -u https://github.com/PnF-OS/android_manifest/ -b v1.0
+repo init --depth=1 -u https://github.com/PnF-OS/manifest/ -b v1.0
 ```
 Syncing Sources:
 ------------------
